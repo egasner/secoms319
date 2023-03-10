@@ -1,4 +1,4 @@
-fetch('index.json')
+fetch('data.json')
 .then(function (response) {
     return response.json();
 })
